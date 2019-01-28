@@ -1,6 +1,6 @@
 # Meetup-groups_Data-Scraping-and-Analysis
 
-1. Descriptive Analysis of various Meetup-groups data from the website www.meetup.com and deriving meaningful insights from it.
+1.Descriptive Analysis of various Meetup-groups data from the website www.meetup.com and deriving meaningful insights from it.
 
 2.1-2.3 Scraping the meetup website to collect and gather data for every group, about its founders, members, location, interests of the member of the groups, genres of groups, other groups a particular member is part of.
 
